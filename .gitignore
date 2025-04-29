@@ -1,0 +1,8 @@
+# Environment variables
+.env
+
+# Go dependencies directory
+vendor/
+
+# macOS system files
+.DS_Store
